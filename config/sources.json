@@ -1,0 +1,56 @@
+{
+  "retentionDays": 120,
+  "maxItems": 1500,
+  "searches": [
+    "横浜DeNAベイスターズ",
+    "DeNA ベイスターズ 監督",
+    "DeNA ベイスターズ ドラフト",
+    "DeNA 野球 トレード OR FA OR 契約更改",
+    "site:baystars.co.jp",
+    "2027年 ドラフト候補 野球",
+    "来年のドラフト 候補 野球",
+    "27年ドラフト 候補 野球"
+  ],
+  "feeds": [
+    { "name": "Full-Count", "url": "https://full-count.jp/feed/" },
+    { "name": "BASEBALL KING", "url": "https://baseballking.jp/feed" },
+    { "name": "ベースボールチャンネル", "url": "https://www.baseballchannel.jp/feed/" },
+    { "name": "日刊スポーツ", "url": "https://www.nikkansports.com/baseball/atom.xml" },
+    { "name": "ドラフト会議ホームページ", "url": "https://www.draft-kaigi.jp/feed/" }
+  ],
+  "filters": {
+    "exclude": "Bリーグ|バスケ|NBA|NFL|MLBドラフト|米誌|Jリーグ|サッカー|ラグビー|ブレイブサンダース|SC相模原|競馬|eスポーツ|選手名鑑|全イニング詳細|商品詳細|^\\d{4}/\\d{1,2}/\\d{1,2} vs\\.",
+    "excludeSources": "BAYSTORE|Unisba",
+    "excludeCorporate": "決算|株価|株式|Pococha|ポコチャ|ポケポケ|Mobage|モバゲー|(?<![A-Za-z])AI(?![A-Za-z])|ヘルスケア|医療|スマホゲーム"
+  },
+  "candidates": [
+    { "name": "川本晴大", "team": "大阪桐蔭高", "category": "高校", "position": "投手" },
+    { "name": "緒方漣", "team": "國學院大", "category": "大学", "position": "内野手" },
+    { "name": "百合澤飛", "aliases": ["百合沢飛"], "team": "関西大", "category": "大学", "position": "投手" },
+    { "name": "真鍋慧", "team": "大阪商業大", "category": "大学", "position": "外野手" },
+    { "name": "藤本士生", "team": "國學院大", "category": "大学", "position": "投手" },
+    { "name": "大城海翔", "team": "仙台大", "category": "大学", "position": "投手" },
+    { "name": "古堅鈴之輔", "team": "富士大", "category": "大学", "position": "投手" },
+    { "name": "小林鉄三郎", "team": "横浜高", "category": "高校", "position": "投手" },
+    { "name": "目代龍之介", "team": "帝京高", "category": "高校", "position": "外野手" },
+    { "name": "川上慧", "team": "横浜高", "category": "高校", "position": "内野手" },
+    { "name": "髙橋煌稀", "aliases": ["高橋煌稀"], "team": "早稲田大", "category": "大学", "position": "投手" },
+    { "name": "小林隼翔", "category": "大学", "position": "内野手" },
+    { "name": "岩見輝晟", "team": "九州国際大付高", "category": "高校", "position": "投手" },
+    { "name": "森田大翔", "team": "帝京大", "category": "大学", "position": "内野手" },
+    { "name": "黒木陽琉", "team": "亜細亜大", "category": "大学", "position": "投手" },
+    { "name": "仁田陽翔", "team": "立正大", "category": "大学", "position": "投手" },
+    { "name": "東恩納蒼", "category": "大学", "position": "投手" },
+    { "name": "中山優月", "category": "大学" },
+    { "name": "岡村シルバー魁人", "team": "上武大", "category": "大学", "position": "外野手" },
+    { "name": "眞邉麗生", "aliases": ["真邉麗生", "真辺麗生"], "team": "駒澤大", "category": "大学", "position": "外野手" },
+    { "name": "林将輝", "team": "大阪学院大高", "category": "高校", "position": "投手" },
+    { "name": "長友悠成", "team": "智辯和歌山高", "category": "高校", "position": "外野手" },
+    { "name": "松本覇", "team": "帝京長岡高", "category": "高校", "position": "捕手" },
+    { "name": "森健成", "team": "北海高", "category": "高校", "position": "投手" },
+    { "name": "福井那留", "team": "横浜高", "category": "高校", "position": "投手" },
+    { "name": "洗平比呂", "category": "社会人" },
+    { "name": "小澤周平", "aliases": ["小沢周平"], "team": "三菱重工East", "category": "社会人", "position": "内野手" },
+    { "name": "高尾響", "category": "社会人" }
+  ]
+}

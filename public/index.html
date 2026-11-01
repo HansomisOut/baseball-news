@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; object-src 'none'; base-uri 'none'">
+  <meta name="referrer" content="no-referrer">
+  <title>ベイドラNEWS</title>
+  <meta name="description" content="横浜DeNAベイスターズと2027年ドラフト候補のニュースをまとめて読めるファンメイドのアプリ">
+  <meta name="theme-color" content="#0b3d91">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="ベイドラ">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <h1>ベイドラ<span>NEWS</span></h1>
+      <button id="install" class="icon-text" type="button" hidden>インストール</button>
+      <button id="refresh" class="icon-text" type="button">更新</button>
+    </div>
+    <label class="search">
+      <span class="visually-hidden">見出し・媒体・選手名で検索</span>
+      <input id="search" type="search" placeholder="見出し・媒体・選手名で検索" autocomplete="off" enterkeyhint="search">
+    </label>
+  </header>
+
+  <main>
+    <p id="notice" class="notice" role="status" hidden></p>
+    <section id="filters" class="filters" aria-label="絞り込み"></section>
+    <p id="count" class="count" aria-live="polite"></p>
+    <div id="list"></div>
+    <button id="more" class="more" type="button" hidden>もっと見る</button>
+    <footer class="foot">
+      <p id="status"></p>
+      <p>非公式のファンメイドアプリです。見出しと媒体名のみを表示し、記事は各媒体のサイトで開きます。</p>
+    </footer>
+  </main>
+
+  <nav class="tabs" aria-label="表示の切り替え">
+    <a href="#all" data-tab="all">すべて</a>
+    <a href="#baystars" data-tab="baystars">ベイスターズ</a>
+    <a href="#draft" data-tab="draft">2027ドラフト</a>
+    <a href="#saved" data-tab="saved">保存</a>
+  </nav>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

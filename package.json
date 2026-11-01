@@ -1,0 +1,14 @@
+{
+  "name": "baseball-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "横浜DeNAベイスターズと2027年ドラフト候補のニュースを集めるPWA",
+  "engines": { "node": ">=22.2" },
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs",
+    "dev": "node scripts/serve.mjs",
+    "icons": "node scripts/make-icons.mjs",
+    "test": "node --test"
+  }
+}

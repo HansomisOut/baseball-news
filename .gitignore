@@ -1,0 +1,3 @@
+node_modules/
+# 取得のたびに変わるのでコミットしない（デプロイ時に生成される）
+public/data/status.json
