@@ -1,6 +1,62 @@
 {
  "items": [
   {
+   "id": "ca7d7b7ca2b1",
+   "title": "DeNA前監督三浦大輔氏「行ってきたぜ」相川七瀬とのツーショット コメント欄でキャッチボールも",
+   "url": "https://www.nikkansports.com/baseball/news/202611030001728.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://www.nikkansports.com",
+   "date": "2026-11-03T12:35:25.000Z",
+   "firstSeen": "2026-11-03T17:52:34.347Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "e0bad96ced26",
+   "title": "【オリックス】宗佑磨が国内FA権行使 人的、金銭補償発生しないＣランクでDeNAなど調査か",
+   "url": "https://www.nikkansports.com/baseball/news/202611030001363.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://www.nikkansports.com",
+   "date": "2026-11-03T10:09:20.000Z",
+   "firstSeen": "2026-11-03T17:52:34.347Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "2ad7c564a79b",
+   "title": "【DeNA】小田康一郎は現状維持1600万「打撃はパワーアップに重点を」即戦力期待も１軍６試合",
+   "url": "https://www.nikkansports.com/baseball/news/202611030001256.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-03T09:43:42.000Z",
+   "firstSeen": "2026-11-03T17:52:34.347Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "a9ab41cae1be",
+   "title": "筑波大学 小林理瑛 最高殊勲選手・最優秀投手 (県立相模原)【2026年 首都大学野球秋季リーグ戦】2027年ドラフト候補",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRRFQ1MXFUQ3RXejc0RThXckQ5VDA5NUx2ZjBOaWhYVk1SWGRkVEpwR2phY2dodWNlMjJKaTVlM0FyeEo4ODE4VUdCVFlvamxvd2dnVmxkZHVHTUM2?oc=5",
+   "source": "YouTube",
+   "sourceUrl": "https://youtu.be",
+   "date": "2026-11-03T09:00:25.000Z",
+   "firstSeen": "2026-11-03T17:52:34.347Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
    "id": "ee7efe888e33",
    "title": "DeNA、新任の川島コーチがチーム合流 現役含め6球団目「選手のためにやりたい」",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMzFDY3p5bldyWVE0ZWhWemtzWHh5ZVNrWjEzcmFNaEl3Uk1UVlJ0Z2dfSl8tNms1emJmM01GNWRvOTBldTJBZ01iTGZadXBUajA2OU1UYnBQdm9tekdwOTNIYUVwZHk2aThzN242aGtyS05tSEHSAYoBQVVfeXFMT0NkUXFXQVBIV3daZERTR0E2NGRaTjJzZWFQcmg1dFVmLTdBbW9pTzNRRE5RY1hXRXBsRWx2b28zOHdxSWVwbnk0RmJXTTZhNFVtVFFHLXVwMVkyTzUyZW1RR1Z1WWI1bkpESzFJUFc3Nk5EaXM5MjE1UW5PRGVsQ0VjZVpaeHUtOGx3?oc=5",
@@ -3420,6 +3476,20 @@
    "official": true
   },
   {
+   "id": "d3e92fca911a",
+   "title": "『B-SIDE HOLIDAYS 2026 YOKOHAMA DeNA BAYSTARS Supported by 横濱ハーバー』11/21(土)BlueMatesメンバー限定「サイン会付きグッズセット」参加券抽選販売！",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05a0NTVE1ZN1V5VUhLZlpkWmZBSy16T3ZlbnNsbHdGeTE3X3hET1RTUnQ5d3hPaWhCMHdjMFZhNmZpWm51VnpoZ0tjRkRISlZqV3MwWG9uWTZHNnE0b0VF?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://sp.baystars.co.jp",
+   "date": "2026-10-28T03:00:55.000Z",
+   "firstSeen": "2026-11-03T17:52:34.347Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
+  },
+  {
    "id": "fb5271aaeec8",
    "title": "ソフトバンク対DeNA、日本シリーズの名場面（3）敗戦まであと2アウトも…土壇場で飛び出した同点弾",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51emREYm80MUUyeWo3QnBJSmlFenpCWW5DTUhPaTUxbmZQMEJCUlY1UEFrcEsxaWxKemtEbDhBRjR1OFIxb3FzUEJodDhFSkM0a0FPMnhSN1NHQTBELUhUT1F0SUpqSHJscEtGeVpYcjB3Mml0azJudTIzU3dqMVk?oc=5",
@@ -3597,6 +3667,20 @@
    "sourceUrl": "https://www.baseballchannel.jp",
    "date": "2026-10-27T13:19:19.000Z",
    "firstSeen": "2026-11-01T16:49:37.193Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "bfb5a3df0bab",
+   "title": "DeNA悪夢...9回あと一人で追いつかれる さらに守備で神里和毅が負傷交代のアクシデント（2026年10月27日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kb2I5d3F1VjRQVDVHMXpuQkQwVlF2ckVsNVQ2YkVYYkYxdXlTSnpabXpTWXJTSWxCZE1VSlBTYVk4WktoUnI0Q3QxMnlCbjdKaWJLYkdJV2pYNWxvX2Rwd0pZRHZDMjBaZ1Rma1gtRU5EMExuV1h4RC1Waw?oc=5",
+   "source": "日テレNEWS NNN",
+   "sourceUrl": "https://news.ntv.co.jp",
+   "date": "2026-10-27T12:17:00.000Z",
+   "firstSeen": "2026-11-03T17:52:34.347Z",
    "topics": [
     "baystars"
    ],
@@ -8826,6 +8910,20 @@
     "森健成"
    ],
    "official": false
+  },
+  {
+   "id": "54c3f876c096",
+   "title": "おやこで楽しめる！10/18(日)「おおいそB-PARK」、11/21(土)「ふじさわB-PARK」の追加開催が決定！",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZVZYRzljSm1kVjBzZFNpUHdOWDJTX2V3MjZzZlA0dF8xWk1DbU5mc2pkaEVFZ3dIUkZuZi1iYmxmYXN3d05NblBXMHJQZVBJdjM0Y3lxeHY5U3dqdlVJ?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://sp.baystars.co.jp",
+   "date": "2026-10-09T07:00:00.000Z",
+   "firstSeen": "2026-11-03T17:52:34.347Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
   },
   {
    "id": "59c193130c59",
