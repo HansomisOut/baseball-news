@@ -1,6 +1,79 @@
 {
  "items": [
   {
+   "id": "df4383333e79",
+   "title": "明治神宮大会・大学の部に大学代表候補14名が出場！来年のドラフト1位候補に挙がる仙台大左腕に注目",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WVUU0US1wdEp2MWE3ZEcwaGZOQi0zMGlEYTJ2SnlaQTZBREEyTHJFQ1poeTI2eldGODZWNVg5Q00xMFdzNGFRTk4yTXVMRWpxenlrNjJCc0MtS2ExNkZGVEtFNmlXOFhoMW4tLXYyRjh1blNHZkdXN1BHUDB1OXM?oc=5",
+   "source": "高校野球ドットコム",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-11-13T01:11:57.000Z",
+   "firstSeen": "2026-11-13T01:53:17.706Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "0214e8dab9d0",
+   "title": "【一覧】仙台大・大城海翔、大商大・真鍋慧ら50人 大学代表候補強化松山合宿参加選手",
+   "url": "https://www.nikkansports.com/baseball/news/202611130000183.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://www.nikkansports.com",
+   "date": "2026-11-12T23:17:59.000Z",
+   "firstSeen": "2026-11-13T01:53:17.706Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "真鍋慧",
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "b8c965a31550",
+   "title": "【DeNA】５年ぶり古巣復帰の嶺井博希「１試合でも多くチームの勝利に貢献したい」恩返し誓う",
+   "url": "https://www.nikkansports.com/baseball/news/202611120001638.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-12T22:00:00.000Z",
+   "firstSeen": "2026-11-13T01:53:17.706Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "bc5dcb7dae31",
+   "title": "DeNA、今オフに戦力外通告を受けた選手（6）まさかの“戦力外通告”…ベイスターズの先発ローテも",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQXVrWkt3aUV5YVp4SGdaZkRDS1pPS0dEN2wzWGlNcTN4LVJ0bFM0dy1vU3lPUktKYWgyS0JGdnBMblJSMlE4U0FTT3NNaHpyTm9jU0dkSWJnZ1ZlY2FqTmpCQjdaOW96TzZXWmU5d0hPeXRsaGJoRkY5WmpQOFk?oc=5",
+   "source": "ベースボールチャンネル",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-11-12T21:32:18.000Z",
+   "firstSeen": "2026-11-13T01:53:17.706Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "bb2fe04d54c2",
+   "title": "嶺井をソフトバンクからトレードで獲得も…戸柱がFA宣言 気になるDeNAの捕手事情",
+   "url": "https://baseballking.jp/ns/712302/",
+   "source": "BASEBALL KING",
+   "sourceUrl": "https://baseballking.jp",
+   "date": "2026-11-12T21:10:00.000Z",
+   "firstSeen": "2026-11-13T01:53:17.706Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
    "id": "981a2cc96c4e",
    "title": "宗佑磨はDeNA入り最有力、床田寛樹に関心の中日は工藤監督出馬か／FA交渉解禁２日目まとめ",
    "url": "https://www.nikkansports.com/baseball/news/202611120002219.html",
@@ -8,6 +81,20 @@
    "sourceUrl": "",
    "date": "2026-11-12T19:55:00.000Z",
    "firstSeen": "2026-11-12T20:52:42.320Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "5edfdb1aeae2",
+   "title": "GREEN×EXPO 2027 元ベイスターズ・三浦大輔がスペシャルサポーター就任",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QdHVMd0o2M1JtTDhkZUZGUl9Zcy1OVlFpWmZhOG91Y2VTTFRfeFIwV3FoM1F5ZjNZMzBST1BOS1NPYlhEVmQ4bkFtQ0Q0ak4xT2p5NVFWZ1BDVU5Rd2tVMU1wME8?oc=5",
+   "source": "JAcom 農業協同組合新聞",
+   "sourceUrl": "https://www.jacom.or.jp",
+   "date": "2026-11-12T17:00:00.000Z",
+   "firstSeen": "2026-11-13T01:53:17.706Z",
    "topics": [
     "baystars"
    ],
