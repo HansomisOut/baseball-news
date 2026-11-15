@@ -1,6 +1,92 @@
 {
  "items": [
   {
+   "id": "d4f0d19f1dfe",
+   "title": "「満塁男」駒田徳広さんが“古巣”巨人＆ＤｅＮＡの来季Ｖ争いに期待 「野球の方向性が違うから面白い」",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkEyQ0EzREswRWVINzVWUG44VzNnd0lvZWYwMkdCQ1VOYlVnMVoxOENJSGF5ZDlzZjRNbHlKTFV2UjdfNURHRXVqRmFrNjBaZEZwUTJOMExXWWFodmdSOVJfWS1jVVR0QXM0dnJ3ZUkxSnFTcHNZYUFkV011NlhaWm5DQQ?oc=5",
+   "source": "UQライフ",
+   "sourceUrl": "https://portal.uqmobile.jp",
+   "date": "2026-11-15T08:25:00.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "411fdd8fb850",
+   "title": "【高校野球】横浜・川上慧主将「自分たちを見つめ直す時間に」“愛される、応援されるチーム”へ、中学軟式野球部員と技術講習会",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeXplVWJrNGFSdlVjV3dwMlF2TkhPVzM2bVNnZEM1QWtlbDR4dklwTEdhNHdOb24zeWNyOExjQmhvSDN2U0VjVVZHYWRib29YMjJKdF9jcmtDRHgtUWNzNVV3?oc=5",
+   "source": "スポーツ報知",
+   "sourceUrl": "https://hochi.news",
+   "date": "2026-11-15T07:07:00.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "川上慧"
+   ],
+   "official": false
+  },
+  {
+   "id": "ede69bf8cea4",
+   "title": "【DeNA】「まるで同窓会状態」前監督三浦大輔氏「雨男のせいで…」OB戦雨天中止で自虐",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FR3pTcmQxaVNCaDVXQUNlelc0RVpaM241V1ZXeklnZzQ0ZUlLTWFaLVZPRjM1YklQZV9pNjBoUGMtZ191MXVISUkzUkhkdk4wMEF2bDMyc0tqMEtyQS1ja3JNS1BsU3R4QldoU3VlU3rSAXhBVV95cUxOLUc5UW0yRGtNTlVzQldSbk9LQ2tDdy10T1B6aElGWEdfckVCOXAyR2ZsRGRaSVlFamYwbEFWWmhkQnVzYVpLT1JVQng3MXdTeUFQMHdpeVdFNGtWNmZEbFg5MGVpR1ZLaGhnaW5MQlVjZWdyTGJLTWY?oc=5",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://www.nikkansports.com",
+   "date": "2026-11-15T06:22:55.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "ad052c2f24ff",
+   "title": "【巨人】中畑清氏、松井監督に期待「電話にでんわ」ショートメールで「キャンプではレッドカーペット…」キヨシ節で爆笑エール…ＤｅＮＡとのＯＢ戦は雨天中止 (2026年11月15日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UHFkVHpuak1sZm1lLUpQN2w0RVptWDZ1WkVFRzQ5ME1hWXhmMkRDaUN1V2R6cTBnZXNTeUtqa0d3M1haWFpxeUlaOFZXNFRCNW5PMF9nWUp1RWFVanc?oc=5",
+   "source": "ライブドアニュース",
+   "sourceUrl": "https://news.livedoor.com",
+   "date": "2026-11-15T03:20:00.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "af71136baba9",
+   "title": "【巨人】中畑清氏、松井監督に期待「電話にでんわ」ショートメールで「キャンプではレッドカーペット…」キヨシ節で爆笑エール…ＤｅＮＡとのＯＢ戦は雨天中止",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRTM4czB1WW1PRGhhZUE2QThZZDUwMzVPQXczSmkzdmNFZ2xIVjFJMDBxbHYzWjRIbk1PcU5kbVREbDJSRlU4dThTUnZRWmFldDRIOUVDQlFzS0xMbGtPUTh3?oc=5",
+   "source": "スポーツ報知",
+   "sourceUrl": "https://hochi.news",
+   "date": "2026-11-15T03:20:00.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "7c08312c271d",
+   "title": "11/16(月)選手プロデュースステッカーやdianaハマスタバトル200勝グッズが登場！",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5eEI0VEJ1eF9WUnZxdk9QV21SbFJDdnhRNE0tY0R5SnVNcW1PNzFVYm0zNGlYM1I4NFhpVDRrUEpZQUppd1hvZ2lQX0lWaEZQVGFOVmZXNHFKRGpCOFVXWQ?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://www.baystars.co.jp",
+   "date": "2026-11-15T02:58:29.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
+  },
+  {
    "id": "ecc38a7df6e7",
    "title": "【巨人】横浜ＤｅＮＡとのＯＢ戦は雨天中止も豪華メンバーで記念撮影 ファンとハイタッチ会も実施",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJM1BUbVk5VTlqLWZuZG5PcFZKdlhmZnNHQW5Ha2lNX1l2R2M2THVMRHdwTEZ6ZGI2Ty05RnJlM05MU3pWbF9FelN1bVRyYWxjTjFOMVVpOHZuNGV1Ujd4RE56QVluTDdZUEJtYl9IdXZ2cFV1RlIxWTBVak9jLVk?oc=5",
@@ -9827,6 +9913,20 @@
    "official": false
   },
   {
+   "id": "8f222804ec42",
+   "title": "DeNAに“山本祐大”という脅威「嫌がっている」 専門家が指摘する「鷹のアドバンテージ」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tNnR2YWxWdVdjU3o1WWZMeHJjOEdRQmtVMlotc3hXdXVmSHk1UE55bkgwc182Y1dnWlJQR0NVLXZUWGVfVEJuczNhdXAxc0RmN3JseWxRQU9fLXJZMlNBV3NoWVZtLUFqVDVTeGVQSHVfMzE0c2NvZl9GWkR0T3c?oc=5",
+   "source": "Full-Count",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-10-27T07:00:00.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
    "id": "677eded8fc52",
    "title": "【10月27日】福岡ソフトバンクホークスvs横浜DeNAベイスターズのテレビ放送/ネット配信予定｜日本シリーズ第3戦",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnFCUWtaZzU2VE9iVnhMV3p0TEVwaGZRZzVBNXdPM09acmtjWno4QmhMMlNhc2pXWXJNbGJIaVQyT0JfUm5YTm5lcnV1SHdxbE1qTXJDWWt1anFmUTdSYnlLazBEeTlBOVJuRlZ4RThnQVpwWFNsZGJwVlFoQ2FQS1JPWlg3dmlTYk95aDkwdTBXRkZGYVdZYmtRbXQ1Ym1XYy1aMktjQ3pOTE1VSzlsWWNkYXgtS1Q0cHlvMktrY2xsTDNqTzdwRzZqRQ?oc=5",
@@ -13427,6 +13527,20 @@
    "sourceUrl": "https://www.kanaloco.jp",
    "date": "2026-10-19T07:00:00.000Z",
    "firstSeen": "2026-11-01T09:23:20.711Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "337b816b5c37",
+   "title": "ドラフト1位くじ運ランキング、DeNAは一本釣り狙うのが賢明？",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sOVNZYTFMSS1WNjdlY09WRjZET2dKT0RoYlRBYTFXX2htVzRGZVV2ZmxqdDFPdWxyN2s4YzFUU01oTHNKXzFubUpuS0lUYkg1cnYwYw?oc=5",
+   "source": "SPAIA",
+   "sourceUrl": "https://spaia.jp",
+   "date": "2026-10-19T07:00:00.000Z",
+   "firstSeen": "2026-11-15T11:03:28.547Z",
    "topics": [
     "baystars"
    ],
