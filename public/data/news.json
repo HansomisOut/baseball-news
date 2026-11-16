@@ -1,6 +1,174 @@
 {
  "items": [
   {
+   "id": "a9294c182ec8",
+   "title": "【DeNA】蝦名達夫が正中堅奪取へ「３割打てばレギュラー」1200万円増、一般女性と結婚も",
+   "url": "https://www.nikkansports.com/baseball/news/202611160001520.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-16T20:30:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "7b819495528d",
+   "title": "【日本ハム】山県秀、侍でDeNA度会隆輝＆石田裕太郎と交流「ヒントがいっぱい」飛躍の糧に",
+   "url": "https://www.nikkansports.com/baseball/news/202611160001282.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-16T19:55:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "f4b6a9ecec26",
+   "title": "【トライアウト】DeNA藤浪晋太郎、広島小園海斗ら、主な不参加選手一覧",
+   "url": "https://www.nikkansports.com/baseball/news/202611160001512.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-16T19:55:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "a757937eaf72",
+   "title": "11/16(月) タイムテーブル | B-SIDE HOLIDAYS YOKOHAMA DeNA BAYSTARS 2026",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1bGxEN2l2M3lRaTJFM3VkVGtHVEpabGtNZnRzd1pscVRvZVI3a1g5YTBSd2FWYWsxX0tUUDhhSUZ4MVlUUzNfWXpyd2pyMHlzYUF3Tmk2R1RnMDI4ODk3MW01Sk1jaWp0clp1TmwyZC1JcnhKVmVfRFhhTHc?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://www.baystars.co.jp",
+   "date": "2026-11-16T15:45:01.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
+  },
+  {
+   "id": "d99d4466a4ed",
+   "title": "ＤｅＮＡのファン感謝イベント始まる 森原康平と伊勢大夢は接客体験",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LaHE3cUJjUXVlb3owT3ItNkZMNUVzcWtOM1hUcFdic2VuT0tPLW5wd25xaUpEc2pGcl9sX3RrUWUyZVZmTFI0VUpZZlFBR2NsZ01vY1RkcGlPUko0Z3NKYVVIV1BXTC1sLVFrR1oyY2p1RDhBSUtSeg?oc=5",
+   "source": "カナロコ",
+   "sourceUrl": "https://www.kanaloco.jp",
+   "date": "2026-11-16T13:10:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "4ffd1cc5cc17",
+   "title": "「とにかく楽しむことと全力で何事にも取り組むことが大事」横浜DeNAドラフト4位指名の青森大・小金井凌生 投手 野球教室で子どもたちに夢を持つ大切さ伝える プロ野球選手としての夢は「チームのエースに!」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TYUFvYXpXcnB2ZDVvTWZnVTJhVGpxamVrS1p1MG4yUk9PVWhodkZfNHJMTG1jRGhaVWZpMk5tMDJKOHUzNDl1LTB1WnFwT2ZfRjUyaWJOUHF2VzNleXRWckNWdEx1cDFrbG5WYXp1b2NRdjdJanFGR01CRXB4RWs?oc=5",
+   "source": "ＡＴＶ青森テレビ",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-11-16T12:22:14.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "0f9772538993",
+   "title": "ＤｅＮＡ蝦名達夫、悔しさ残る７年目 「３割を」レギュラー定着へ成長誓う 契約更改",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HUzctTVZfX1gwRTQyVXM4b1l4bnRKTWZJR0JqTnhITndPRWYwNXJxSUl4UGZpZ2tYdkZvQzk0M2VqWlp6bDhpSjJNS3J0bElvdTlIS3RIS3BKMnpvVnFaWHFjNi1IY1BtRlVxdkJzQzJQWllpUkxOQg?oc=5",
+   "source": "カナロコ",
+   "sourceUrl": "https://www.kanaloco.jp",
+   "date": "2026-11-16T12:20:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "fbff265e0f88",
+   "title": "ＤｅＮＡ蝦名達夫が１２００万円増 神里和毅と石上泰輝は現状維持でサイン 契約更改",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ybkhNVFEzX1dZZVpKSl8tQ3FrLW5JLVFOVHhhZE5YNVVQZGliUFpvak5naFpnNGhYektOUDRObzg4aUh1Q0EwN01SNnNsNDdKM1NYY3hGcmFjVk00RTFiVGs2VHFIaEpBWFlGZXo2d25ES3FvcGJoSA?oc=5",
+   "source": "カナロコ",
+   "sourceUrl": "https://www.kanaloco.jp",
+   "date": "2026-11-16T12:20:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "8607821301f0",
+   "title": "DeNA・神里和毅、現状維持で更改 手負いのオフ「また一からやらなきゃいけない」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcXJpSlJheGVBWXRzdEtRRVhNcUloYXBySThxVGJZdFRTUDNSWDNib1BJUV9WUkUzWk9aUkhOdTVsSFlMN0dJQjRjWHEwY29tQzduV09pdHh4YXBnLWlXcEhlenpESXo1dlk3bDkxYWk2cjZnWUHSAYoBQVVfeXFMTzJ2Z1VpVDFqeWI2aTU3eTJMYzk0R0dXejExTkJaazZCMWpnSG55WHdtSzVEMTRFdFJ2Yl90UEZScEFxQUx4dFpuNnptOXJFOW5Dc1FRNWdLWlhPejhZZUdCMU9JcTRxODNGcDBUVUtLbEJ0c2dPajBBY2NTdEg4SHVFRXJra0ItM0tR?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-16T12:04:47.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "dce3eb2f57a2",
+   "title": "【DeNA】森原康平と伊勢大夢 新イベントでショップの代打店長",
+   "url": "https://www.nikkansports.com/baseball/news/202611160001865.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-16T11:59:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "c9d8a25ad52d",
+   "title": "DeNA・蝦名達夫、1200万円増の5900万円で更改 2年連続で100試合以上に出場も「率直に言えば悔いが残る」",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenhERGpJN0VuaGpIb0Z1cF9pQTVXQUZrOTBTX2duaHFET3dlQllFM29IN1FFM01iQlY3NHpiX0g4ZXlNU0ZXV3BmUEFEUVlGU0Fzc2tTQ3ROYWx4YkJxZnFteUhqX19rTVl1SVJTaTdrN2h5MzBnX3hTZTB6a29mM2IxWk1KUkJtQVBKQzJSSXpGSWZzVVJ1ONIBigFBVV95cUxQZDRTTzlJRnI1bzdBdkxhR3lRRWltX3VaUnhmLUtON1ZpWG5GeWl0WmhIamhzTHpGd0R0UUU2bS1SMnZ5bzhkaDZPNTdqejY2TElDQko1dDhTSlFfa3l5SExFbERyVHRQZFBRME1hM09lSDVrcXY4WnFiVFdRZnlGOHVIM2JBNkhzYVE?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-16T11:44:24.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "f8a0d996383b",
+   "title": "DeNAがファン感謝イベント 22日まで、横浜の球場や街で",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15V0dKNWg4RTBPeTBvYUN0dkNGZnQ2Q3J4c2lvSEMtME1TVGhuNFVOc19Welk2SU5ZaDQyMkEtMklRYnVoQUh5WnYyaDJJVUc2Z2xZUnF5WWt4dENXakowSmFFNS1jVF9GOWxDNGhSSdIBdEFVX3lxTE41cmhOUzJxVkRmdldtQ1k0MkxmZzMyTktlUHljV180Rl9tbDB2clpVYkxSZUdqYVJWZXprb3FyTGpHVlRlN3JzeEI3WjdfZUpFcVRKWWNlQ2hhdE4tXzlLeHkzaXBJQ3E1U0s0azhWQ1E3MEpx?oc=5",
+   "source": "Infoseek",
+   "sourceUrl": "https://news.infoseek.co.jp",
+   "date": "2026-11-16T11:25:02.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
    "id": "6ded2e2cb402",
    "title": "ドラフト4位指名 小金井凌生投手（青森大） DeNAと仮契約",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rMVo3b3JxYWlpTWpNMVFfa05qTGc1VUNsNUkyQk5kdzFFdWp6MHBuZDRIOTByUTNLTDh3bmE1WjhUWUw2aWlDbV9wa3dGdzNReHJycXkxSGxBNVI5eVFuMVlGNl9fZFd4SGVHb2FmTWU2YzB1WUEwLTNUbFNaTm8?oc=5",
@@ -253,6 +421,20 @@
    ],
    "players": [],
    "official": false
+  },
+  {
+   "id": "f746c90751eb",
+   "title": "B-SIDE HOLIDAYS 2026グラウンドコンテンツ勝敗予想キャンペーン",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RHROR3plUUZhUkkzTWxlX2gyNWMxS24zNmNaUEp5dVJUQ3BNbmxwbGtGR0twX04yd1EwQjh6RzNVSFVHT0l3YVQzTExXUDVQRC1VX1dIX1lRemp3Mjl5QQ?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://www.baystars.co.jp",
+   "date": "2026-11-16T00:56:54.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
   },
   {
    "id": "a3b921f50ce8",
@@ -10864,6 +11046,22 @@
    "players": [
     "小林鉄三郎",
     "福井那留"
+   ],
+   "official": false
+  },
+  {
+   "id": "f3afa03d2b66",
+   "title": "【写真・図版】帝京三―横浜 横浜の小林鉄三郎=2026年10月25日午後3時9分、上毛敷島、岡崎祐仁撮影",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBMU9OaktmUWhjXy01bGY0QUxnNTRNN0l0M2hKenVfLVJFR2ZRb3V0SXlwWWt4SktlRXBVbVpvV3pYbDBmVXNQNU1QczBKSUgxOExUbDByM2VlY2dURmFrbm5KenVjVFMzcXRYbkRqUDRBZmhnVUNrdA?oc=5",
+   "source": "バーチャル高校野球",
+   "sourceUrl": "https://vk.sportsbull.jp",
+   "date": "2026-10-25T07:00:00.000Z",
+   "firstSeen": "2026-11-16T22:12:18.589Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "小林鉄三郎"
    ],
    "official": false
   },
