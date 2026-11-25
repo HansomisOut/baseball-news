@@ -1,6 +1,385 @@
 {
  "items": [
   {
+   "id": "c874bae61cbf",
+   "title": "横浜DeNAベイスターズ2027年シーズン 編成状況【随時更新】",
+   "url": "https://baseballking.jp/ns/713613/",
+   "source": "BASEBALL KING",
+   "sourceUrl": "https://baseballking.jp",
+   "date": "2026-11-25T13:08:35.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "7c3dbf16dbe4",
+   "title": "【明治神宮大会】大商大は準V…DeNAドラ１星野世那「監督さんをみんなで胴上げしたかった」",
+   "url": "https://www.nikkansports.com/baseball/news/202611250002197.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-25T12:40:42.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "a1d5d7bcacdd",
+   "title": "【明治神宮大会】大商大は創部初の日本一ならず DeNAドラ１の星野世那「自分の力不足」",
+   "url": "https://www.nikkansports.com/baseball/news/202611250002056.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://topics.smt.docomo.ne.jp",
+   "date": "2026-11-25T12:34:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "aa56721b7e02",
+   "title": "【NPBアワード】衣装かぶり？ ベストナインDeNA牧秀悟「あの時着たのをちょっと後悔…」",
+   "url": "https://www.nikkansports.com/baseball/news/202611250002081.html",
+   "source": "日刊スポーツ",
+   "sourceUrl": "",
+   "date": "2026-11-25T11:27:53.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "11dc3c7ebc06",
+   "title": "横浜・小林鉄三郎がエースの力示す9回1失点！2年ぶり神宮大会優勝も「まだまだ足りない」【明治神宮大会】",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IQzFwUmZrRl9TMnZuRjRJOC1yRnFiWk9XVXFaTkthUF9EMTRrNWh0N0U4c3dsTEgzMk54V1l4RE1xQ2NjWDg0S3N1WlNxb3E1b1NVNUE2RVhEZ3hua3lYdG5MWkRhX1lvVUlFMlJScHZfS21rdmZMV283ZmdXMFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-11-25T11:00:09.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "小林鉄三郎"
+   ],
+   "official": false
+  },
+  {
+   "id": "9637c16971e4",
+   "title": "【神宮大会】 仙台大が３度目の出場で初Ｖ 来秋ドラフト上位候補の最速１５２キロ左腕・大城海翔が“血染めの激投”",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2lvMmwtbEVfWXU5MVNYQi1yV0JTcXd6cXlyczI5aXMwMVhMdjIteTJjS19vR2dneTk0WTU3Q3UyTHoyWjdscE1XUnd5TE1xUEJqSTVtelh5dnlVNHFjV3Y4eU9tdWw4ZGY5WlJiUmdNNkltdzdFVFJNS3ZQQ0dUUlRmR1jSAYoBQVVfeXFMT19MaDVadXlUWlN3Q3JzM2J1djJkWDE2dkNFZjFtVzBoYTZjNHRwSHZqckxxYmdYeU9CbkExZGdCQjlZLUJGNEVndnBzRm11SnBUT3oxUjl3YS1hYkxwckR3THdYZU9SZWF5UDYyOXI5S2xvWF9pQnEtcHFZUlpNZ2czTWxBVC1iUVNB?oc=5",
+   "source": "ｄメニューニュース",
+   "sourceUrl": "https://topics.smt.docomo.ne.jp",
+   "date": "2026-11-25T10:33:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "7030528bb922",
+   "title": "仙台大が初優勝 嘉手納出身の大城海翔が先発 明治神宮野球大会",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WOHpiTTZvMDMta05aVFBiLUNXNmgtQXdoZnZEM05FUWZmYS1OS01MOFgwcktjaGd1UTdzZUZ1blpfUUY4d0dEVlZMelAzby16ellOcm45TzE2RDVHaEE?oc=5",
+   "source": "沖縄タイムス社",
+   "sourceUrl": "https://www.okinawatimes.co.jp",
+   "date": "2026-11-25T10:00:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "5d4a6437bd37",
+   "title": "【明治神宮大会】エグい！来秋ドラフト上位候補の仙台大・大城海翔「投げ切れた」９奪三振初V貢献",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xRTdua1Q1RTJ4UUI4SjhrQ0RrSVVrZ0ZjejZRVk1RdmZpVUx6NkFEV2pDd1p0T2c2U2pSdDcwdmg2cnZHbXNGNTMxcTAxUEs2Umo0bVRTeU5MWG5tSVg0TlB6T2xJWFpWRXJpMGE0N3TSAXhBVV95cUxPczJkX1hsVFdnZUx6el9XRVJ5MkhTaXFoS21GQVJkZjdTZVlpMndKS0FrYWhiVWFsRWtxQ3AydnpuWEZiMWdrUVJJS0ZvTnRiTHBuQXdMQzhCTHlTMGpwTHJEcnVzZWpsanQ3TE5Nd3M2OVlxa3VYQ2I?oc=5",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://www.nikkansports.com",
+   "date": "2026-11-25T09:53:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "2909ed5118c2",
+   "title": "【NPB AWARDS 2026】牧秀悟選手、度会隆輝選手がベストナインに選出！",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETV96Tmd5dF9uTHctM3VFdXBrMnNwZnFJVFIwQTJ2Z3lPMkdEc3lmZ3NBNU05Y2tNNWRKZVFEMDZLdjRnOWxuT0FOM08wSlZqblZKelhzYUdmUGdlU3lmUw?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://www.baystars.co.jp",
+   "date": "2026-11-25T09:29:14.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
+  },
+  {
+   "id": "7049d81fb61c",
+   "title": "仙台大・大城海翔「気持ちで投げた」145球熱投で東北勢初の大会制覇に導く／明治神宮大会",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eWpzcXU2TVdBRjhicFNWX0xuNm9oZFlWdXJBQ3V0OGN5YnRpZmtHQkgwQXdxaTJyaXZpVW5WaUN3NjRRYU1fRW1WbGRudFh1UlpvLTVXVGZJdGhTU2RpZ2gzV1MxdFRvejI2a0NWUlNlMzJqOGhXM05uU0cxOE0?oc=5",
+   "source": "サンケイスポーツ",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-11-25T09:25:37.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "f072cd070d93",
+   "title": "【神宮大会】大阪商業大がまさかの大量7失点で準優勝…ドラフト指名組、来年ドラフト候補が不発",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5RkZNeXNlZG1aazgtUFVVNFV4OEwwaUlVd2JPa0RtOHo5c3BqRFNmTkRPSjFHSS1scnFqeEEydl9QTFhra1QzQVFsRGpLYThpckk1cUpGSWM4WXNucS1VT0czMW9MM0NYWDdKeW5HQVNnb3IxS1BPMldGU01IQms?oc=5",
+   "source": "高校野球ドットコム",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-11-25T07:58:53.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "9048469b6a5f",
+   "title": "仙台大が大商大に快勝…大学の部、東北勢悲願の初V 来秋のドラフト候補左腕、大城海翔が9回途中まで145球1失点",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50SlIwTERDYzVVUG9JTnNxeG1HSENRMWRra0xTa1drZnpZRzRBaS1SS1ZSMEk2U1k5UzlnZ21VazNPLUFrVWpGWjFIT094V3g2Tk03cA?oc=5",
+   "source": "中日新聞Web",
+   "sourceUrl": "https://www.chunichi.co.jp",
+   "date": "2026-11-25T07:35:56.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "38b306014d69",
+   "title": "DeNAドラフト1位の大商大・星野世那「自分の人生を変えてくれた4年間」日本一逃すも感謝／明治神宮大会",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalpOWE1kd1NFdVhFQzRqVUhrbTVIaF9UWWJDRVd6N2d2bVd4VGJOTGhGalF2NVBzcTE2OTJ5U1hUd3hFcGJYeUJqM0tKY210WjgzUlFBbHF1VXl4UjA5LTlHRjlJYmRSWHIybXFLNkN4cTNscWVFXzE1STVDOFBjZUFLRC1QdFJkUnBMMGZldTg3cE9IbGFIMmIzOVdZUdIBigFBVV95cUxQSGNlN3ZCQVJuVU9hdUdaelpJMm9pTk1lRm9XanZlWUs3SVJieS14V2RXQWd2NExGc3V1MHJHRWx1aklYVTlnVzBwMXZabHk0VGpKdjNlZDZpMU5OVDdPcUpTdHRXcTJOZ2RpNGJGWTNUdU5MMW9ZWC1qYUZsUTdJbG5VQzV6ejYtVkE?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-25T07:33:57.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "91dd3a1e6bb7",
+   "title": "仙台大が悲願の初優勝！中1日の大城海翔が145球の熱投、九回途中1失点／明治神宮大会",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTE5vNC0xc3ZGVlRwcDRRTGFfM1YyZEw1QkFDem10QmR1blFNbE1nOFlUZG9HX1h2bnJ5cThHRmE4Q2NqMGI4OHRzYkt0bGJFN2ExUy1IRTd6VUNDSTBuZ0dUWEJnb2ZvVUpuenA2N01YY2UybE9qMlpVR0JIeDh6Uy1jaUJOTUVBQTZaM25hb0dEQndfZlNRSkxCZG1aaEFRaEowcV9qRDFiYi1xcEHSAbMBQVVfeXFMTTVIa2RzdjJ1eG1OZGdZQW80aV9rWjNyd3JQTWtNTkNLYmt6b3RaQk5WYm9fUnRnNnhLbHByZGp0X0EtbXlmX1l0eElOMUpWTEJkT1JLaTZhM1dBLUZ0QkdLajZqTjU4UDNXMHJmbGtKY0V6aXhCWlVUYjZ6RGs5emFvQVpUWm11UHhiTzZ4TWNlUzZNNUVUSmJzRWRRZ1B5Z2hGbm9BaHhMTEEzWnlMRkZETjA?oc=5",
+   "source": "ｄメニューニュース",
+   "sourceUrl": "https://topics.smt.docomo.ne.jp",
+   "date": "2026-11-25T07:09:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "d894dc7bab80",
+   "title": "広島からFAの森下暢仁をめぐりDeNA、巨人、ソフトバンクが争奪戦 他球団からは「過大評価」の指摘も",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUnl2X1kwVkpzak9DMGV6Q2h2cWxBYVM1dzhLblVoT3RnSVN1U0lLR19CMERNbldGOHN6NmR6akdZeEZMUFozQjBvNXF6bFdBdi0yQXN2c1JoRmt0XzgwbXhhaEgtU3kyYXhPZ1BEMmZRUGMzYlctNG94blA5N0U?oc=5",
+   "source": "AERA DIGITAL",
+   "sourceUrl": "https://news.yahoo.co.jp",
+   "date": "2026-11-25T07:00:36.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "a86e81013d27",
+   "title": "大商大が初優勝逃す ＤｅＮＡドラフト１位・星野が二回途中からロング救援も…八回に３連続押し出し四死球 試合後は涙目で「申し訳ない」オリ３位の春山は悔し泣き 注目の真鍋慧は快音響かず",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dGJtdDdaTUVUT18wbDlBWnJfQmxWZ3JLMmpCUEZfY2Y5VGpPN2tPd1lzeHlRdzkyME4yUHRwNHRDZ0UzcTMtSGxIanJWZmhGZ3ZiUkViWk1YNTA4ZUhuR1k0eUVmRUowNGZlTzJIYUVEQzNOMU1UOFpB0gF_QVVfeXFMUHB6WFVac0EzbVNtZmJKQ3RldmdTeWQwQWRtenBTSExKd0trTklvTEZBa1lSMUVIUkc0SWhQcXZ2eE9TNW5yTUl6bkVpRHVCbGdJODdpZEhxcnZTVkdEYUxKZnJNU1JvWVBTejNfOUVqc0l0aHlIQ3pwVUlaV0JRWQ?oc=5",
+   "source": "ｄメニューニュース",
+   "sourceUrl": "https://topics.smt.docomo.ne.jp",
+   "date": "2026-11-25T06:56:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars",
+    "draft"
+   ],
+   "players": [
+    "真鍋慧"
+   ],
+   "official": false
+  },
+  {
+   "id": "0b25e52201a9",
+   "title": "【大学野球】仙台大が初優勝！ 3年生左腕の大城海翔が力投 大阪商業大を7－1で下す＜明治神宮野球大会＞",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80YzJUb1VyVnpTd2g3elZyajVNT3B0ajNGYzFKZWp4aHZyZDRjUkRoMlFGVDdjOUFsU3dobXJyWjBmamQ1TjA3dmUzSFNyXzZud0htMDV4MWkzVS1YS0VPX1ZCTjdkaEVNVG9nSmNRZ1h0ZXBHNHkwdzdaQQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "sourceUrl": "https://news.ntv.co.jp",
+   "date": "2026-11-25T06:55:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "9197ca276116",
+   "title": "仙台大が神宮大会初Ｖ！来年ドラフト１位候補の大城海翔が亜大戦に続く快投 ＤｅＮＡドラ１・星野との投げ合い制す 球数１００球超えから４者連続Ｋの圧巻投球 森本監督は男泣き",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UZWZ5RmFDMHBBa01yVVE1bzlXM0JfREdNQ1lCWTEycGpCd3I2Yi10T2FWTE0zSzdIQUh1c1o5aUpzcl9wb1BfV1V0dzk2QVdiTmg0bk1JTnlQVFJaMFRiX05majhkOUVoMWxWRHpUVjVxQkNDOWFSNnhn0gF_QVVfeXFMTnROVXMtTUNwQVl4WGVsQTBERThlR3BSQzJCTTFTOVRCd2J6Uk9JdmtBS1N4RllWX184UWI0Z2FQTHVHLXB0UExoeFF4VmFEcTFLWE9LWm9tREdDMmt5Ni1nZVNFQlVNdTkwdVp6Tkl6TkFFTXhQWlhzbTlpd0tMWQ?oc=5",
+   "source": "ｄメニューニュース",
+   "sourceUrl": "https://topics.smt.docomo.ne.jp",
+   "date": "2026-11-25T06:55:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars",
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "49847bd652e9",
+   "title": "【明治神宮大会】仙台大が初Ｖ 来秋ドラフト上位候補の左腕・大城海翔が奪三振ショー",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVlI3dG1YTEpnM2E5THAyZkp6Y0VybkloWkVuSDJCanl2UUlsZ3Vic3lFWE9wOWt4TDdCNzFkWFdYaEMxalhGLXA5VWV5Zk1pZGtOcGlVYV9sOV9EWEl0QmRZWnU4d0d5dW5hUWJqQ3LSAXhBVV95cUxPYV9NZER6bEhqSmw5VGdUa2JvUHpHRUl5eTJnWVNDdG5IU1Jsa1loYnF3bmlkQ0h1Z1BWTGgyZVZPaDNoOEhvSm5yck40MzBEcGhmNWVicTdTTHhsWFUybE1tWEkyTV9nRkw2dWJPS0U3MTk4eUVsS1g?oc=5",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://www.nikkansports.com",
+   "date": "2026-11-25T06:54:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "76656cc84478",
+   "title": "仙台大、神宮大会初優勝 仙台六大学勢初の快挙…来秋ドラフト候補の3年・大城が9回途中1失点好投",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0RiNVIxYUE5ZklpNWRQZGxZeWZialA2MVp0aVBTUmwtOU04dVNTMGVacVRRMm1UX2NMRGhXMk1hRDZyZnhiVlBTRVlUc2I4TEwzQ2xBdnFwdmI2TERpMUNQb01iYWJ6bjQ4NE1Xa19lTS1tU3JxNVRpeU1udDg3R2pOMGF3THdTREpOaTZYd2FDZkxFWHJxWU5EZFhES1M0YlBiTkFNSElITDVYRkVkR1VreXBiNWVrVUR0Mk43OXdlOUVoR0pYXzFJOU9uS0pqblVqMtIBhAFBVV95cUxNOXJ3MlRPN1ZuYWRLbk5weGpXT05Sc0Z4RWhBR1pKNHE5SDJaTHhOWm9icXlkWmxrRmJFbnV3N1piQllEWmNzNy01N1dta2tKZHNyakdueHZxd0ZNVDJfb3d2aEpQV0FZMEJiLXVTSFVXV2d2MXV0QkpJUmFPM3ZVZXJXUXI?oc=5",
+   "source": "ｄメニューニュース",
+   "sourceUrl": "https://topics.smt.docomo.ne.jp",
+   "date": "2026-11-25T06:53:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "c90802824107",
+   "title": "【神宮大会】 仙台大が３度目の出場で初Ｖ 来秋ドラフト上位候補の最速１５２キロ左腕・大城海翔が９回途中４安打１失点の好投",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GNVZZNXd2YWt6WUhfSzgxZzAyajVhdzdZYm5MVmFLYWVRbk5HUk1GeS1DV0EzUHQ2elh2QS1RRXhsdjVXTGNNUzI5VkV0cld3UE4tUU1WWGIwVXhaMXZoYjh3?oc=5",
+   "source": "スポーツ報知",
+   "sourceUrl": "https://hochi.news",
+   "date": "2026-11-25T06:53:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "f5d143c1ed66",
+   "title": "DeNA、育成の小針が下顎部固定具抜去術の手術",
+   "url": "https://baseballking.jp/ns/713634/",
+   "source": "BASEBALL KING",
+   "sourceUrl": "",
+   "date": "2026-11-25T06:52:06.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "55835e670636",
+   "title": "小針大輝選手の手術について",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwXzhwTVhZTXh5Y1c0YTQwdzROQ1ZZSWJjRWFvNWJEYVc4MnNhZE1NY2ZKMFlYZFRxVlpyRUNyUDJpSWlEdl80VkxXTmY4R2dIeExtMFBFREJ5eUtTMk1Tdw?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://www.baystars.co.jp",
+   "date": "2026-11-25T06:03:31.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
+  },
+  {
+   "id": "3eb50cc2ac08",
+   "title": "初優勝を狙う仙台大が五回を終えて2-0とリード 大城海翔が5回無失点、大商大はDeNA1位の星野世那がリリーフ登板／明治神宮大会",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55cUszX1Vjc050aEMtTC1NMlFOTFphZEhoZHpTMWtrRHNyOU9zZHczbHg5Z0tBaHJodmtNd2dwajBhc2lRd3lEQWMtbW9qcmJKdFBaaS03RUd2SWZTRmZPTnozTUVvOU9jaV96MEdrREtDQ3p0VFHSAYoBQVVfeXFMUDJQOG1EOW9yZEVCMEZjMVNQN3hRbVVIQW5yUWdVbWdsaEhhckcyMkc0SWstRWRoWWNVUVBrVWFWTTd1VkJfSFpsc0dtRFc5R1ZSeGVBNEM2ZnZObE96cTdWRDJQbFRMa2VCNWlVTEc3SlJMVWQ5Vm1IVXpmUFJjSldweGQyWUtBcEFR?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-25T05:29:02.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars",
+    "draft"
+   ],
+   "players": [
+    "大城海翔"
+   ],
+   "official": false
+  },
+  {
+   "id": "9061bcfc3bf7",
+   "title": "古市尊選手がファーム・リーグ中地区優秀選手賞を受賞！",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YWDI0eHZoQjBIZVFEVVJMQjBwZlV2NEpFUG1veFctX296ZDNkRDgybFc5c0pmc3l3ZXFZQmpoR3FFX2xvWUl0YmY1YlVDdngtd3JJbHBaWW5JR05HMmZudQ?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://www.baystars.co.jp",
+   "date": "2026-11-25T05:05:28.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
+  },
+  {
    "id": "b8ee8c727ced",
    "title": "神里、入団決まる プロ野球・DeNA、ドラフト6位",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ld2M4VWhVdFkzZ3dLZTFEa3BqM3p4WWVNbDRITE5xeTR0QVR3dEdySjgzcTRRS3FVTVJhT3BVcUptWno0SW0tZTFCemViQkVwbHFiakkzNXVsYkVWanc?oc=5",
@@ -12,6 +391,22 @@
     "baystars"
    ],
    "players": [],
+   "official": false
+  },
+  {
+   "id": "75be5fa6e860",
+   "title": "【動画】横浜・川上慧主将インタビュー - スポーツナビ「バーチャル高校野球」",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16UU1GVjZMY2JmMl9HVGJhMnpzTlB6QzBrVDhrOGg3bnprSUoyazVVN1B2bTlsMk5NRmN2U3NWQ0U1b3dSRGVyWU51dTYyNHQxUnhBLVNfdHp4cmVj?oc=5",
+   "source": "スポーツナビ",
+   "sourceUrl": "https://sports.yahoo.co.jp",
+   "date": "2026-11-25T03:54:32.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "川上慧"
+   ],
    "official": false
   },
   {
@@ -68,6 +463,22 @@
    "sourceUrl": "https://sportsbull.jp",
    "date": "2026-11-25T03:09:12.000Z",
    "firstSeen": "2026-11-25T04:54:39.101Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "小林鉄三郎"
+   ],
+   "official": false
+  },
+  {
+   "id": "713fa92b2867",
+   "title": "横浜、2年ぶり優勝！小林鉄三郎が117球、5安打1失点完投／明治神宮大会",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXBGUGZlSGNnNGV0ODNHTDBrN0Y4bHdQZzV0SGxXMUVJelZ1MFhGdmc5cjVvVEc3T1hSOEpTTUIxb3dvamJxSHduZWxYc0xreHVBMzg3VEI4SlFLc3lSNVdHSDV3SDRCRVR4MWpUS1RsZjhGbDJQcDBSNDJJYnJGZ19SSlVnb21pbXZYLVNpWk1IZDh6VFo3X2ZQUGEzZ9IBigFBVV95cUxQR0g5WUx0bFd5NUZtTm1RVXg4SV8zWGRpVGliYjlBNEp4NGV4YmVmWl92emRWX0xPbEd5eGxKZzFmZUtUbXVPUDh6R3lUWGVtMnhOblVmb0oxMEhCUks0TEU0UnhqVDBmZDZKcmpTcjVQRl9NN2lwWFpSbWE2aVZPcjE5T1hSVXM2aVE?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-25T03:01:44.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
    "topics": [
     "draft"
    ],
@@ -201,6 +612,20 @@
    "official": false
   },
   {
+   "id": "a29418949491",
+   "title": "（4／4）泣き虫・宗佑磨がファン感で涙を見せなかった理由…悩み抜いたDeNA移籍と、恩人・中嶋前監督への電話「マジでクビになっていたと思います」 - プロ野球",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jTGJyZkF3RGc4dXVvelJvNUV3Z1d5clhKZWdhNWVfeENmcTdiMWh3UUZ6NVl3XzNWNW00YTRHS2FqWE9ZT1hvZE5qcmxSUmF4c3UwU2dnOVM5emYwV25r?oc=5",
+   "source": "Number Web",
+   "sourceUrl": "https://number.bunshun.jp",
+   "date": "2026-11-25T02:04:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
    "id": "1e67b5016ef4",
    "title": "ロッテ戦力外に「人生の底まで落ち込んだ」 育成26歳が示した覚悟…DeNA社長が期待する“強み”",
    "url": "https://full-count.jp/2026/11/25/post2049937/",
@@ -266,6 +691,20 @@
    "sourceUrl": "https://bestcarweb.jp",
    "date": "2026-11-25T00:00:00.000Z",
    "firstSeen": "2026-11-25T04:54:39.101Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": false
+  },
+  {
+   "id": "f9d0b3220bce",
+   "title": "【DeNA林琢真】妻に打ち明けた「全然違うわ」ソフトバンクとの差 打撃改造の決意",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tS1l2WU1iZ2JoM0NLY1pFaFhIT1EzbDg2M3g4NUx1MU1fcE85MUJZYllHWUxTRFpqYW9DN1RDTmxiemlyWlU3RllRNVZiUE5kc1gtM0t1ZTlpZmRQQW15aEtFQ2xNZEtIWm8zcDI1TXUySm9WMXJEMXlIUQ?oc=5",
+   "source": "日刊スポーツ",
+   "sourceUrl": "https://www.nikkansports.com",
+   "date": "2026-11-25T00:00:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
    "topics": [
     "baystars"
    ],
@@ -1763,6 +2202,20 @@
    "players": [
     "大城海翔"
    ],
+   "official": false
+  },
+  {
+   "id": "68ad615ead5a",
+   "title": "オリックス、海外FA権を行使したDeNA・戸柱恭孝の獲得を発表（写真・画像 1/1）",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTERzWDJqSjQyLUJQWWxpdFRfclZSOTBSM1hzSy16ZHZ3dWVsVGNsMnczZU00RWtBMVlxV1pYSVFxRXhMbS1WTmplX2RrMkVFVkZaeTE2dzI0RDNIYVRKQ0hRV3Y1SEdnNE1VUng2RmIwdGNlTHdYeFBzd3JleURCakZtVkNMNTBUQW5jTzR1Ujg2Wk9Cam4wc1JsZ1ZaaGJIeFdzUmRzeDRIVDZpdk9BdHF3cFgxOVNCXzNmbmdqM3pkRkFMSWc?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-23T07:00:00.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
    "official": false
   },
   {
@@ -6185,6 +6638,22 @@
    "official": false
   },
   {
+   "id": "bcd0ec20435e",
+   "title": "北海・平川敦監督、エースの森健成に絶対的信頼「彼が投げないと試合にならない」／明治神宮大会（写真・画像 1/1）",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWQxRnV2ZUZGNTRwSzRfTGFZQlZSZFdVUkxVVnVsdkZaN0R0TlB5dnBwRnkyblF5M0ZqMkVRZ0hGODYyeXQxNVNZRUtUS2s2czRJUmRFRjRObS0tdkU5dWwteklGUlhYME84R3JRVzVaOW5Kd0NqU1Q0dGIwazJCSXNYLUhsdEZRd1dJTklnQmYxdnhiazRqcElTdWgwdHVjeFE?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-19T05:16:16.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "森健成"
+   ],
+   "official": false
+  },
+  {
    "id": "283de9f12219",
    "title": "北海・森健成投手インタビュー",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLURIUUJOOE9jSTRyampDejJyU1pLMVEydmJHd1ZwRHFkWllDM08xVVQ3M0xFMWwzUVdxSWJYYkR2S01UcWg5QmxzeWZORE1mdVR2M0o4MkNmb2hVZnl5MEdLVWZhTkhxaFJRUlBvSEljWmIzWGFmQ1FZR0hleVl2RnNMNXVsUDdrNEtTOUlsZGktOHRyOThjSmlKMjdRR0VvZUFFS2x0enRGMVVl?oc=5",
@@ -6238,6 +6707,22 @@
    "sourceUrl": "https://www.nikkansports.com",
    "date": "2026-11-19T04:46:35.000Z",
    "firstSeen": "2026-11-19T22:12:09.291Z",
+   "topics": [
+    "draft"
+   ],
+   "players": [
+    "森健成"
+   ],
+   "official": false
+  },
+  {
+   "id": "1aa95b725157",
+   "title": "北海、32年ぶり神宮で勝利つかむ 先発の森健成、アクシデント乗り越え104球完投／明治神宮大会（写真・画像 1/1）",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQjVZc3M1UXpLUzBBdmE5OUdVNHpsQ19wMnpUbnJBX21JaVV0OU9tbGtJLXRRYklKRVlYQ0taVV9CLThxQTlMWGRmSmg3UHdaNG1RZDhlSG4zTTdURW9JZkwwc0FMV3VqandCenFTMWhwWkd2RlRMbWl3UE9OU3RVX1RXSzZFVlFFRGY1MlJGRXZ3NktBXzVqZ0tIRHVLQlVQdFE?oc=5",
+   "source": "サンスポ",
+   "sourceUrl": "https://www.sanspo.com",
+   "date": "2026-11-19T04:34:51.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
    "topics": [
     "draft"
    ],
@@ -13538,6 +14023,20 @@
    "sourceUrl": "https://sp.baystars.co.jp",
    "date": "2026-11-05T11:00:09.000Z",
    "firstSeen": "2026-11-07T08:51:34.521Z",
+   "topics": [
+    "baystars"
+   ],
+   "players": [],
+   "official": true
+  },
+  {
+   "id": "a2bec3789e18",
+   "title": "試合日程 2027年10月 ｜ 試合情報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LSjJaWG5vaUd6WkQxc1BJZmU0R2dqbHlpTmY4QndFaV9BNkYyX241LUhUZmxsR3luN2xpUmdFbDFhNkZfV0pkc0NWMzFiWXdzRkdxZXJtRmsxcUU?oc=5",
+   "source": "横浜DeNAベイスターズ",
+   "sourceUrl": "https://sp.baystars.co.jp",
+   "date": "2026-11-05T11:00:08.000Z",
+   "firstSeen": "2026-11-25T15:42:00.525Z",
    "topics": [
     "baystars"
    ],
@@ -21033,483 +21532,6 @@
     "baystars"
    ],
    "players": [],
-   "official": false
-  },
-  {
-   "id": "a8a57fd8e0e1",
-   "title": "「抽選はしたくないな」DeNAが大卒左腕・星野世那を1位指名 相川監督「1年間投げ抜ける選手」",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcklTU3RGbDdWS0JrNTVjalNEeGNMb1dvMk85eElhbDZuZXNmYUNLd1RXZGlZRklOcmJwNVpOcFhfY3BDQWh4emY1a2c5X1VTZHFYWWpxVS1sVF9ESHpMSjVpbU8xREp2bEVuU0J5QWREeG4xcFdVSWNaUQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "sourceUrl": "https://news.ntv.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "aa2e59b104f1",
-   "title": "（左から）大阪桐蔭・川本晴大、慶大・丸田湊斗、大商大・真鍋慧 - スポニチ Sponichi Annex 野球",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFFrVEZlaG1Ob1BmNDRjOThNeXhLZ1dZUTZGanNnX0Y5RG5Hcl9oWHpTTS1YbEg4NEgwOGJZLTQ3YnBJb2lBTmZaNDBPVFhRajRaRWRfeUlxWnJ0VG1BTGN3TEZ2VVZiaWNyMWlOOHN4VFBJbUR1LUpzSjNPMkh2QXdfeUxwZUdvNzZhVUkyUQ?oc=5",
-   "source": "スポニチ Sponichi Annex",
-   "sourceUrl": "https://www.sponichi.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [
-    "川本晴大",
-    "真鍋慧"
-   ],
-   "official": false
-  },
-  {
-   "id": "ac68afa2464c",
-   "title": "ＤｅＮＡ、ドラフト１位に大商大・星野投手 最速１５０キロ超の本格派左腕 横浜高・織田投手は巨人が１位指名",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11eE5mcWp2OHZHVGpCSzV5aWwtelVyQ1hSNEkwdVp6bUZmXzhsYnluWFZBOG9EdFZZMmxuUDdXMFdHaklDRWhJZ2lWYw?oc=5",
-   "source": "47NEWS",
-   "sourceUrl": "https://www.47news.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "afd710bcfcb1",
-   "title": "【ドラフト】ＤｅＮＡ６位指名の神里陸にＳＮＳ騒然「兄弟誕生！！」「神里が増えた！？」兄は在籍９年の神里和毅",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUDd5RTZwTVFyZ3VYa0dHWUthZGRZS3d1S01EQzF5X1pGN3dfY0lsTTJkTzNCZ1hjWWo4ekdib1p6Z0ltcV9NR3puOEZhWUhEOUtobUw2NzVKdXU5WUlpX3dITng0dlZnbVRIdTVtcm90SXV2WEVaNHFxcS1yQzA?oc=5",
-   "source": "スポーツ報知",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-11-04T06:33:05.979Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "b0b67c0153f7",
-   "title": "10/24(土)～『&9（アンド・ナイン）』各店にてプロデュースグルメ第8弾発売！",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01QjhJS3A5T3B4QjRRR2tWSmtUeVdwUEhHRE5jVDRxVTZrcEExQWZXRjc4ekMxWk5uTU9LRFdHNjlFdDBIOGMtbzFfb1FmRzVSN2JiUTJNVGdXRGRQVm5F?oc=5",
-   "source": "横浜DeNAベイスターズ",
-   "sourceUrl": "https://sp.baystars.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-11-01T09:23:20.711Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": true
-  },
-  {
-   "id": "b4b6f1a4cebe",
-   "title": "【ドラフト】DeNAは大商大・星野世那を1位指名 関西六大学の左腕エース「チームのエースになる」（写真・画像 1/2）",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjJteEd4SDcxeXZLVlgtaWVvSUoyR082Sk5FazR3dGlSeFVHZmZfMnBCV0R4bTBUMktueHlhZThRX2RYU0MxdVd3NVRLaDBBalBYcks4RkdlVXRJSmZySjU3NXlkSFQ0aUtUbGY1UUJuVUhWV1prNVN0V2dSV2U0RnJNeUJ3MjNpbjNuMk9VaUVCMEVoQ1dJRDh1aGNIZ0xBS1o2Y0VOTTVaWEwwcGhBWi1RQ00tMDZBWHhQaVdnT3lTbG9Y?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "b544dfedf904",
-   "title": "ＤｅＮＡ、ドラフト１位に大商大・星野投手 最速１５０キロ超の本格派左腕 ドラフト２０２６",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Uck5JZmVVb3dVTk9rekJETzJlYm5sa1R1SENDM0RNT2xGaXExLUI5U3pNMGdzRWNBd0M2c2NBOVpOaG1KM18zSW5OSWdGOVlBWDZaeVRjZVVDWmp5LWF3NVZGQTVTWTZ1RXkxaFBoeTVxdmk3THpuSw?oc=5",
-   "source": "カナロコ",
-   "sourceUrl": "https://www.kanaloco.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "c10525fe34dd",
-   "title": "【ドラフト】DeNA・相川監督、一本釣りに安堵 最速151キロ左腕の大商大・星野を1位指名「何しろタフ」",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmdJU0Q0SUV4MVE1QTFqWW5Oc0ltNWo5eGJNbXhRdjNEYjVYWTNYWGFEeHZBdlY2akZIMmFBOURIbGRqZ2hLSVVfV1Zlak9peVBZcXBlODRPX2QtV2RHQ3lRM3pSYzlHLW5ZeFhFNDRVb2VGSDkwVV9iNWFwSlRuOXBGMnRuSkllOVZVeXQ3dFVHejg0TjAwM9IBigFBVV95cUxQTXB3SkUzQkZjcUV5WWJVOENEbWZsM2JETFJDbXN4ZFNsRWo4MTNSXzMwTVVsTFRZbFhPd0ExbmZhTjRDd1NfYUN0ZkdvT2xWUEFkV2tJSjE3emxHZlhCWHZmOG95ZmdFQjhlMUJRQnZ5UmpZWVY1T3drOWRrU0FBRlJXQnBRV3FVd0E?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "c3881ff4b8b5",
-   "title": "【ドラフト】DeNA相川監督「何しろタフ。先発でも、中継ぎでも」大商大・星野世那を単独１位指名",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZaEl0bzNtQnlMVVVxWlhFMU1oWEF0c0FlSWYwaTVJV1Q4MW9TemRibHJRNFJ5M25LbF9XTlFXcTRrdTFQcFhkRzY5a21rLUZlQ3hlN283TUZrM0pwdUdnUkdMZUdkVy1VNm1wTmNJa3HSAXhBVV95cUxPQ2pIaW1vSGp5clNLZU9GTGxKVzhnTTN4MHVxTHpoRlR5X0NZb2NhQnNFTkRPaFZuX1EwQWJHbUlHb2drX0hYS0tqNzgtR2RwdjkyaFNxSVoyTnBoTnhKN3JwNk5FYlcyVld0enZVNXdxUHhuWjhEcmY?oc=5",
-   "source": "日刊スポーツ",
-   "sourceUrl": "https://www.nikkansports.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "c40bc81fb66d",
-   "title": "【ドラフト】DeNAは大商大・星野世那を1位指名 関西六大学の左腕エース「チームのエースになる」",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3A3dzRIVXVqUWZKQzYtOHVuUXMyLUttVVdhTTNjRG9zUHNVMDJOYzFZMjhJaFZvRFFVUHVZVmNGOTR6Vmg4Rlk1aVRYMTNKa3F5MW1OaHpwNG83dkJ1b2k3SE1nTjRyS0laaUxZd3JDMnBZcl83dVpXdUJVME9OQzhycHZXbEZoTVVtT0haYnkwWjRTc1lGV9IBigFBVV95cUxOaFNCQ1BHa1R5eDNFTFJTRUxWZ0xuUElBcl9ZYkxjX3FpQ0Vmc3VpTWJGT3d1STVrNnhOLXFHZGQ1MWFQMUFkeWExY2hnbE5NbDBRNDI5UFJWNlFIRm5iQXFtT2dMcDBEMFIwV2EyRjBqWmtJYzZYRUdadHhfQlhSMVpWVy1tNjJqWlE?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "c5923fa561f4",
-   "title": "【ドラフト】DeNAは「カナダの大谷」を3位で指名 杉本寛斎は投打二刀流で異色の〝逆輸入〟外野手",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUDc1a3dySXgxV3VuX2lXUjJ2QWlfeUN6eGNlU2JVdk9XeXYwMXBMeXJ4TTE4OGlVNklJRS1NOHV3aUZMSFRaM3Vxd1lxdXg4eng1Qy1EN25EODF4a2RmRDlkb2tPOFg2eGE2b0NtU09UUjFBZ2tuMmJreUo2a0ZlOEM0OG14Zi1LYzhJYnJ4WFNyRnVicjdhedIBigFBVV95cUxQSHFCU1lhdmhhVUp0V3JxN0dxQ2VVSEdfNUpoLVUxSjJITlRtSGx6NDUzWU1jaGk1SFhDNWI4dzBodDlLTWh4UTdENl9Udlo1b2lOdFBiTW1ET0t6T19idEJTMkp2UTZkTGVsTE9zMGZmX1lIdm00YkFpRVgzaWw0ZVctaEFZdHhUeVE?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "c82fc0d2d101",
-   "title": "【表】DeNA・過去10年のドラフト1位指名 2017年は東克樹を単独指名、23年は度会隆輝を引き当てる",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnFfYnN6UDUxa0NzWDVrcnBmU1FyZVh6VWRWT0NrNTEtZ005dGZBU0NyWmpHd1JFeHM1aTE1c2s4MmxNMnlFdXNLNzNBZUU4S2tORjVwWFVaaHBvazBIWDg3NWNyMmRLa1Q0Vl9VYVYtOFVCSW1nY0s3UXlWMHk1QXpTU3A3aEtZUnNPMjBRc3N6bXY4cXliedIBigFBVV95cUxOcGNGYjM5MzdONUVtQ3hKNldYTHc1MzlmTlo4dGU5bE8tZ1RGMUUxY0QtMHNEUjh6Rmtwa2ZlX1E1d0x5UkxTUC1rbGVHN0w3ZHJBbkMyb3dKbEpmcGRJVDRJMUl1LXZ3Y2dMeDY2djVRczVHRGZzeG5VYWNMOUNfZno2Y2s0R0g2ZUE?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "ca68a010e52f",
-   "title": "日本S出場資格者40人が公示 鷹は12勝の大津＆今宮外れる…DeNAは主砲エンカーナシオンが登録外",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Gc09Hd05nUkxhTTJLTkVxTFVaY1BfdUxTS3BpRm9RRTRuN2JSYWhYNnRGRWdmRmJSc0FoVW9Ha19ndzNHRFQ2VTc0WGJNNlNsbHVDUmxfdnA?oc=5",
-   "source": "Full-Count",
-   "sourceUrl": "https://full-count.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "d04eb59c7646",
-   "title": "【速報】横浜DeNA 星野世那投手をドラフト１位指名",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WeUp0OWVTb1dsZG9CN2JMTk5ndUhUVmY3UjVKTVZaaDk4NEdER0doU0lpSlhOVFhzdk1OTGRuWWhISjhzcXcyWTZ1MS1XTUF4UnhBOG5aeXdCMVYxY0xDV0VNX3VXRThnQTFYR3RZYkdnQ2V2RzRyNmpHQnU3UGc?oc=5",
-   "source": "BBCびわ湖放送",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "d324c97acf0d",
-   "title": "【ドラフト】DeNAは大商大・星野世那を1位指名 関西六大学の左腕エース「チームのエースになる」（写真・画像 2/2）",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUFZTUUFlSk54U3N5VXQ4Z3N0UFJLWWR3MWV6bzd5NXNvdGc5N0ZEYmxnTnMzMVZHSHprZkU2Y0tqWEt5QjU3NWNKekVaQ1VmeXRtcG43VzExRTE2MlNvbnZ5UVRPeTlCdFA2NjlmTVBOdDJnWnBVc1ZOVjUwUENpMW05ZTdmOFlhdzFnWGo2Z3M5S1d2ZTFLTnB0SmRtZ0t2bXljODNKbVYwNm9aS2dmcVhjMEN0Mm9tVVlZc0o2U3VNQkhn?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "d3743e3a43f5",
-   "title": "國學院大学 藤本士生",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DXzYtOV9GU09FaGRLY1l3amFjM1UwWGoyYmZ6cXBZZDR4Q0FKUmJWOC1xdTEzVTRrbDJFaTV0Nm0xM2xWb1BhZDJ0VTMxWmliMnA3QWphc0dtS00w?oc=5",
-   "source": "YouTube",
-   "sourceUrl": "https://youtu.be",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-11-04T21:55:37.063Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [
-    "藤本士生"
-   ],
-   "official": false
-  },
-  {
-   "id": "d52104e0d951",
-   "title": "【ドラフト速報】坂口渉選手（Honda・興譲館高出身）がDeNAから7位指名",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSVlAwZlpLLVNTLXpZUnRjQi1NblpnZW5WcVV1alFnWFg3Y1pDNkVadVlUVjRRUlF3aXJwOWN3T1RPUy11emtON0FsRUxwdTJhdlAyVzBDZTU0QjJlYUVpT0piX2k3LWROd0w5ZjBNdXJGWXR4Z1VIOUxxY2RmbUk?oc=5",
-   "source": "KSB瀬戸内海放送",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-11-04T06:33:05.979Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "dd9d969fea44",
-   "title": "【表】2027年 主なドラフト候補",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kLWxpVlV0bkdQUGRHRHdZOUxfa3BGeVhQSTFEUlpKQ25ZTVA3S2RjLU1PcmlSZVVCTjNKRk9xc283S01tc2pCNkhsWnQxVTl5a0szUQ?oc=5",
-   "source": "中日新聞Web",
-   "sourceUrl": "https://www.chunichi.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "df199b78384a",
-   "title": "【来年のドラフト展望】最速１５４キロの大阪桐蔭・川本晴大、横浜・小林鉄三郎、関大・百合沢飛ら左腕に好素材",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmVGE3TmZYRUkxMVhjb3hjamgweEN4c08zOXhpYmpnTm5ONlBHMXBlLW9SQlptTWFONUhIR20wNnBBQU1wekN6R3FfTk5NbEZUcHJpTjB6MlJmQTliRDM5TU13?oc=5",
-   "source": "スポーツ報知",
-   "sourceUrl": "https://hochi.news",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [
-    "川本晴大",
-    "百合澤飛",
-    "小林鉄三郎"
-   ],
-   "official": false
-  },
-  {
-   "id": "e8d93f867eae",
-   "title": "【ドラフト】DeNA、3位指名の〝逆輸入〟杉本寛斎は野手として評価「フィジカルが非常にたけている」",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd09idk9vY1VWN2w1VHgtdGVPQ3NtNlkwWUNtUU90QzF3QVM0MnRMQ3NQZnJoSnYtMkRKTVlqT1daWVVKU0xIYkZOZHlzei1LbU90S0x2RTZ2MkNyTjBVelNHMktiRENJU2NGd1J0ODRsN3EyZFhyQXNPNndCdG1SQVJzTmlWZjF3bW1rUEtUMGFGNFFoVWVpSNIBigFBVV95cUxOMVZ1YWMzN0JzbFg1bEF6Zi1XU3VZcXVrQ2diQ2lIN3VKcDBMbkFYZWZSSDJucXNsY3dERG95bktSZGlZMFVKUlBXUVZ3blFoZEtFSThXb3cxSi1HVnIwR25ES1BHRmh3ZFlDR3Z0bzN3MDRwWWdXRHdQSzhNVjVEd19rTlVxLWpYckE?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "eba1b0e832f5",
-   "title": "【27年ドラフト展望】大阪桐蔭の1メートル92左腕・川本は大器 大学生では慶大・丸田、大商大・真鍋ら",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UeTNtNFlzTFJmR2c1Vy1xdXV3ajBGbVJNSUd1QXRoTHFCQmFfY0paVjNsMTltVkMzS0Z2Nk0xTmd2NlpPX1JRWGdxQmllQUpYWXBORzVrMnljNThnY25nSnNnZWt0dHNHTFkwSnp5SkhwOU1pR3FVN1AwZUphY1k?oc=5",
-   "source": "スポニチアネックス",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "eeb04b312820",
-   "title": "横浜DeNAベイスターズ2026年ドラフト会議全指名選手/26歳/ラジオリスナー(スカロケ社員)/介護士｜ひょろ長亭肉マヨ",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xd2ZNb3c4TEprZWY0R0RRM3NOb1kyN0JhRWdZMUk2THBzNnpuTUVPdEY0SG5pVDAzR0RNRDlwTkZRalhpdGJfTmQwMHhiOUZ1ZnQ1TWFhczJJVFE?oc=5",
-   "source": "note",
-   "sourceUrl": "https://note.com",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "f27f82629355",
-   "title": "【ドラフト会議】DeNA 神里の弟を6位で指名 ENEOS・陸捕手 9歳差の兄と共闘へ",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12ZWVKLXM3MGRCTy1KV2J0eUlzNnFaNHpwaUJrRlJvNzI3SzNObDRtVlNoSl9NQmdpckJMaDVTRHVRLVhkNVJ3dlJEZmtOOFJyODhtYkd4bEM3RnRjLWZ1UEp2NVNmNHVvSEh0TTkwTUl3cERUV3hlMEJ3U29xSDA?oc=5",
-   "source": "スポニチアネックス",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-11-04T15:28:36.166Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "f81b12ff2be0",
-   "title": "【速報・追記あり】小金井凌生 投手（青森大学）が横浜DeNAから4位指名！ 神奈川出身で「地元のチームなので、素直にうれしい」 191cmの長身からマックス149キロのストレート投げ込む本格派右腕！【プロ野球ドラフト会議】 | 青森のニュース│ATV NEWS│青森テレビ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aR3hEN2tFZUhQNElkUjc5S1BwVUpSc1lBSE9rZW9zek9hTnZpa1phenBxV3RIWUt5TTZDRDJnOWptajlxV2NjdzlSeUVaMl9HUGxWaE4xVzgwdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "sourceUrl": "https://newsdig.tbs.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-11-20T03:24:44.905Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "fdd10ad00be3",
-   "title": "ＤｅＮＡ、ドラフト指名は東京ガスの藤沢涼介が有力…１位指名の公表避けるも「層の厚さを作っていけるドラフトに」",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BZzVUUWVlMUc5aTYyU3RPM2lnU2x0S0xLTXJ6bHpNa0VZVFBUS3RQSkRkelo1a3g0TVdDaW93M1NLLW1PX3NwRm13ZHI1X1VFNkVuZDlFazNidWYzdUxfZDZiUENWSVJjS09VZzJIRWRIMHJKeUdzMi1XNkViOUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-22T07:00:00.000Z",
-   "firstSeen": "2026-11-20T03:24:44.905Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "84139d9e2845",
-   "title": "SMBC日本シリーズ2026 飲食ノベルティキャンペーン実施！",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSeGM1cF9YQ2cxaGlKOHRsalNqbG1JdE5VYzAydnd5emxtenFhb00yeTlxbjFqUHI4T2Z4ZWpEd1dWUWswOWdjT25kWmlnQTVheVpKbjhnb0NBa2hPbFhZ?oc=5",
-   "source": "横浜DeNAベイスターズ",
-   "sourceUrl": "https://sp.baystars.co.jp",
-   "date": "2026-10-22T04:00:48.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": true
-  },
-  {
-   "id": "c29ce73f48a1",
-   "title": "DeNAが”獲得”する…？ベイスターズのドラフト指名候補（5）ベイスターズの“補強ポイント”に合致か",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2htNktwaGotZFRXYkhQZk9wTTU5SXkyTWNNWDFPUE9sQ2RiMkpIQW1TUkFsVHZidDNualpQZE5tOGxBM1VYeDkyc29lbnZteU5RVVozLW9NRGhmNjVLS3FRSXFHNTlIT09YQmtuU3UxYzFzM0JEeGRmN2FLUER4YkFoRkRVRlF1LTNON0FB?oc=5",
-   "source": "ベースボールチャンネル",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-21T22:31:33.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "28d115022a92",
-   "title": "森田大翔 もりたひろと（花園大）｜プロ注目ドラフト候補選手査定2026 最速150キロ右腕の評価・特徴・プロフィール",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rb3c5ajhLazJrRG83RUJVTUE4WmM1VEpEaHU4YmJQTm9WM1RNQnlpbFlqQzl3VGdpV1RzTW1NRU1UV0NXUTVkVUtCUUJiaVFhc2M5Ug?oc=5",
-   "source": "ベースボールチャンネル",
-   "sourceUrl": "https://www.baseballchannel.jp",
-   "date": "2026-10-21T17:27:57.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [
-    "森田大翔"
-   ],
-   "official": false
-  },
-  {
-   "id": "2634c896b299",
-   "title": "DeNA、1位指名は「決まっていない」 貫く“隠密ドラフト”…米球界挑戦の織田は「総合的に判断」",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sZmdJNEpyX2pfNjljSjhzeC0yWkhrbURlSVE0aTZhVHUwSkk5Z3BNRFVxdjkyLUdTUVJUajZDSnhBZEM5SG9yT0lhQmtNTzVCWG5SMHBNbng?oc=5",
-   "source": "Full-Count",
-   "sourceUrl": "https://full-count.jp",
-   "date": "2026-10-21T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "2afb466f44e5",
-   "title": "横浜 ３年連続センバツ出場当確 秋季関東大会２年ぶり４強入り エース小林鉄三郎７回２失点",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZU05mTi13bFlEb05Mc204NGt1Yl9Wbmcwd2NPLWE3eFprQXF1dzJVelNJMlVQYWZYQ0dWdXRqeEhvNW80S1NTUWZuYjhfRDAxRXlhYVR1R0kyaUo0X2VRaENrRDJTc0RDQlhfTmdmb3UwaE9VTWFlSDlVSlU2a2M?oc=5",
-   "source": "デイリースポーツ",
-   "sourceUrl": "https://news.yahoo.co.jp",
-   "date": "2026-10-21T07:00:00.000Z",
-   "firstSeen": "2026-11-01T21:13:32.506Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [
-    "小林鉄三郎"
-   ],
-   "official": false
-  },
-  {
-   "id": "2f305f7f2b44",
-   "title": "DeNA、従来通り1位指名を当日に決める方針を確認 支配下では5人程度指名する予定",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWE5TWV5UUpPTHRPSW5oQjZTcDlMTXpQYURMa083bjhpaXJmajM3cEd1aHl4N0lfU2thMWpQTFA4RWx6VklDd01RdUV6NEZFWUNzb3JGS0k4Nm0yb0pfcHYzdzliZXFxX0t5Wm80N1RWcWd3MXdUZElaUnlyaGV3cUNWR1RpNTd2ckdfS1JhaWU3Ukpyd3g3ZtIBigFBVV95cUxPYzhnUWpKTDVxTnFScGZ3Q0h1OUxiUFRxUVdoYWU5Y2VVUnZCT3dQanRWSDc3TUZKb1Z3OGxCaEkxWFVQV1RBelpseW5pbE9zamw1MGdHN1pGWW90M1hnck9sZ1VGWnFaTElDcnRfZS0yUkdIbjBTWEhPWThjRkJ5bHVXdWR2WVpBRVE?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-21T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "3097789642ea",
-   "title": "DeNA・尾形崇斗「ドラマとかでもあまりないようなシナリオ」 27日第3戦以降に古巣相手に先発へ 5月にトレードで加入",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORWxxMFp4THp5Nm1Ec0tSa2ZXR2FtOU1NbTJwTmdUMUNqSjFCcVpRVmpTRVFucXgzWXh2Z0pjSFU4RURtS1oyMHQyaXRjTGlZbWMxZWdQZ3pVM3V4dkhETmpRSnhKMnBkNTFSazBjaWdMZkc3dEZoaXp6MjVSUF9kcTlubnhUOU9IWjlaOGxCR2ZzbGVReWQwbdIBigFBVV95cUxOR3JmbE1LQ1IzdWZvb1dEYkxBaDZQWTZXVm02a0NuZEFINEZvektOd2FVMVlaSmh2TmJjSndHY2ZkS3M4Mk5haWFyU2M2V3lKa01GSHg1NHJIem1MaWkzenZUb2JvWUpQYk03TlYzYncyVTExby1xZS1xNWUwRGV5dFMxOTJxRVZiN3c?oc=5",
-   "source": "サンスポ",
-   "sourceUrl": "https://www.sanspo.com",
-   "date": "2026-10-21T07:00:00.000Z",
-   "firstSeen": "2026-11-01T16:49:37.193Z",
-   "topics": [
-    "baystars"
-   ],
-   "players": [],
-   "official": false
-  },
-  {
-   "id": "34dc37191d59",
-   "title": "【高校野球】横浜・小林鉄三郎投手が7回2失点完投、「プロで勝負できるなら、高卒プロに行きたい」複数MLBスカウト視察",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02bHhnZVpQMmpmc2I0MnZyNk5wU3UwREduenlnR0JzM0V3TEFCbWoyMnFWV1QteXYwZXdreXNJaUNLMlVMaF9kM2VLRTA0UWtGWVplSTBUR2stWGlKX1Y0Z1V1SlVaS2R3QXBF?oc=5",
-   "source": "ドラフト会議ホームページ Draft home page",
-   "sourceUrl": "https://www.draft-kaigi.jp",
-   "date": "2026-10-21T07:00:00.000Z",
-   "firstSeen": "2026-10-31T20:43:45.395Z",
-   "topics": [
-    "draft"
-   ],
-   "players": [
-    "小林鉄三郎"
-   ],
    "official": false
   }
  ],
